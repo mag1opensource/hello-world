@@ -1,3 +1,4 @@
 # hello-world
 Just another Hell-World Repo
-Leaning how to use GitHub for the first time in 2017
+Learning how to use GitHub for the first time in 2017
+not sure why my commit is not working?
